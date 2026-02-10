@@ -52,7 +52,3 @@ These features were selected to capture key transit characteristics while remain
 This work was co-authored with Prof. Peter Plavchan and officially published in the George Mason University Libraries – MARS Publishing Community.
 
 **DOI:** https://doi.org/10.13021/MARS/15194
-
----
-
-## Repository Structure
