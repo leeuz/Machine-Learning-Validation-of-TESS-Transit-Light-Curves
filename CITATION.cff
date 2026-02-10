@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Machine Learning Validation of TESS Transit Light Curves: Case Study of TOI-7325.01"
+authors:
+  - family-names: Lee
+    given-names: Yuji
+year: 2025
+doi: 10.13021/MARS/15194
+message: "If you use this code, please cite the associated publication."
